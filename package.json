@@ -1,0 +1,27 @@
+{
+  "name": "lvl-client",
+  "version": "0.0.1",
+  "description": "a leveldb client",
+  "main": "index.js",
+  "dependencies": {
+    "multilevel": "~5.5.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/lvl-client.git"
+  },
+  "homepage": "https://github.com/robertkowalski/lvl-client",
+  "keywords": [
+    "leveldb"
+  ],
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/lvl-client/issues"
+  }
+}
